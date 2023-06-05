@@ -1,0 +1,32 @@
+*{background-color: black;}
+
+.imagem {
+    width: 22px; ;
+}
+
+.nada {
+    color: blueviolet;
+}
+div :hover {
+    color: blue;
+}
+div {
+    color: white
+}
+.curintias{
+    background:white;
+     padding: 30px; 
+    }
+.titulos{
+    font-size: 40px;
+}
+h2 {background-color: rgb(253, 4, 4);
+font-size: 40px;}
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.secundaria {
+    display: flex;
+}
