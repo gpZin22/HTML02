@@ -27,6 +27,12 @@ font-size: 40px;}
     align-items: center;
     justify-content: space-around;
 }
-.secundaria {
-    display: flex;
+@media screen and (max-width: 480px) {
+	p {
+                   font-size: 25px;
+                   background-color: rgb(43, 189, 226);
+	}
+}
+.formulario{
+    width: 2000;
 }
